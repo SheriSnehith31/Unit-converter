@@ -40,11 +40,8 @@ The **Unit Conversion Tool** is a user-friendly web application that allows user
 
 ```
 ├── index.html        # Main HTML file for the application.
-├── css/
-│   └── style.css     # CSS file for styling the application.
-├── js/
-│   ├── units.js      # JavaScript file for unit conversion logic.
-│   └── obj.js        # Additional JavaScript functions and utilities.
+│── units.js      # JavaScript file for unit conversion logic.
+│── obj.js        # Additional JavaScript functions and utilities.
 └── README.md         # Documentation file for the project.
 ```
 
@@ -54,7 +51,7 @@ The **Unit Conversion Tool** is a user-friendly web application that allows user
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/SheriSnehith31/Unit-converter>
    cd unit-conversion-tool
    ```
 
@@ -98,4 +95,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 If you have any questions or feedback, feel free to reach out:
 - **Developer:** Sheri Snehith
-- **Email:** [your-email@example.com]
+- **Email:** [Sherisnehith12@gmail.com]
